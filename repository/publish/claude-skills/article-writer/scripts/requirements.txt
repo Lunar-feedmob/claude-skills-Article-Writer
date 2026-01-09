@@ -1,0 +1,23 @@
+# PDF处理
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
+pypdf>=4.0.0
+
+# 图片处理
+Pillow>=10.0.0
+pdf2image>=1.16.0
+
+# PDF生成（支持中文）
+markdown2>=2.4.10
+weasyprint>=60.0
+
+# 中文字体支持
+fonttools>=4.45.0
+
+# Markdown处理（可选，markdown2已足够）
+# markdown>=3.5.0
+
+# 可选：高级PDF处理
+# reportlab>=4.0.0
+# python-bidi>=0.4.2
+# arabic-reshaper>=3.0.0
